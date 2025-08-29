@@ -1,0 +1,16 @@
+1. int arr[100];
+
+2.The size of each element in the array is 1, as an array’s size is equal to the number of elements in it. For example, int arr[100]; would have a size of 100 because there are 100 elements in it.
+
+3. N = number of elements in array
+    It would take 1 step to read the array
+    It would take 100 steps to search for a value not contained in the array. (N, check each value)
+    It would take 101 steps for an insertion at the beginning of the array. (N+1, shift each element and insert 1)
+    It would take 1 step for an insertion at the end of the array. (no shifts needed)
+    It would take 100 steps for a deletion at the beginning of the array. (shift 99 elements and delete 1)
+    It would take 1 step for a deletion at the end of the array. (no shifts needed)
+
+4. It would take N steps to count how many times the value “apple” is found in an array. This is because the program will search through each element in the array to find where every “apple” may be.
+
+5. In C++, the name of the array is the memory address of the first element.
+   cout << arr << endl;
