@@ -1,4 +1,5 @@
-1. int arr[100];
+1. To create am array of 100 elements, declare "int" as its type and "100" as its size.
+    int arr[100];
 
 2.The size of each element in the array is 1, as an array’s size is equal to the number of elements in it. For example, int arr[100]; would have a size of 100 because there are 100 elements in it.
 
