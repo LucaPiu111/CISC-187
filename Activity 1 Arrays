@@ -13,5 +13,5 @@
 
 4. It would take N steps to count how many times the value “apple” is found in an array. This is because the program will search through each element in the array to find where every “apple” may be.
 
-5. In C++, the name of the array is the memory address of the first element.
-   cout << arr << endl;
+5. In C++, the name of the array is the memory address of the first element.  
+  cout << arr << endl;
