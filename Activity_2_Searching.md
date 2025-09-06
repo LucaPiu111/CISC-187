@@ -9,4 +9,6 @@
 3. It would take a maximum of 17 steps to perform a binary search on an array of 100,000 elements. This is because the formula for calculating the worst-case scenario for a binary search algorithm is log2N, rounded up to the nearest whole number.
   (log2(100,000) ≈ 16.6 -> 17)
 
+# Code
+
 4. (see Activity 2 Searching.cpp)
