@@ -1,3 +1,5 @@
+# Questions
+
 1. It would take 4 steps to perform a linear search for “8” in the array, [2, 4, 6, 8, 10, 12, 13].
   (check 2, 4, 6, and then finally 8)
 
