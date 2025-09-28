@@ -52,6 +52,10 @@
 
 3. The problem that occurs due to introducing a tombstone to mark a deleted cell is when there are many tombstones, the program can quickly become inefficient and searches will be slower. This signifies the importance of rehashing as it removes the tombstones from the table by putting them into a new table.
 
+
+
 | 1 | 2 | 3 | 4 | 5 |: original
+
 | 1 | 2 | 3 | X | 5 |: deletion
+
 | 1 | 2 | 3 | 5 |: rehashing
