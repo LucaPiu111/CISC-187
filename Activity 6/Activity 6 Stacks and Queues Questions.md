@@ -12,6 +12,8 @@ S:  [4,  ,  ,  ,  ,  ]
 
 
 
+
+
 PUSH(S,1)
 S.top becomes 2
 S[2] = 1
