@@ -5,7 +5,9 @@ S.top becomes 1
 S[1] = 4
 
 S:  [4,  ,  ,  ,  ,  ]
-      ↑
+
+     ↑
+	 
    S.top = 1
 
 
