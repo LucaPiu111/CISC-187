@@ -3,7 +3,7 @@
 
 
 1.
-    return if low > high
+        return if low > high
 This serves as the base case function because it works to determine whether the recursion should continue or not. It sets a goal for the program, so that once it reaches the desired goal, the recursion terminates. If the code did not have this function, it would continue repeating indefinitely.
 
 
