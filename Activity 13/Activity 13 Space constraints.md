@@ -4,7 +4,7 @@
 
 2. The space complexity for this function here is represented by O(n). This is because there is only one for loop which repeats n times, which creates a new array the same size as the inputted one.
 
-3. 3. (see code)
+3. (see code)
   
 4. 
       Version     |     Time Complexity     |     Space Complexity
