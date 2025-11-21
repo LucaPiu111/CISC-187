@@ -8,6 +8,7 @@
   
 4. 
       Version     |     Time Complexity     |     Space Complexity
+      ------------------------------------------------------------ 
       Version #1: |          O(n)           |            O(n)
       Version #2: |          O(n)           |            O(1)
       Version #3: |          O(n)           |            O(n) 
